@@ -1,6 +1,10 @@
 {
-    "host": "smtp.mailtrap.io",
-    "port": "2525",
-    "user": "95728b825cf5e8",
-    "pass": "d3f830e964f661"
+
+
+    "service": "Gmail",
+    "port": 587,
+    "secure": true,
+    "user": "teste@gmail.com",
+    "pass": "senha"
+
 }
